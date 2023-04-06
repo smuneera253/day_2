@@ -1,5 +1,5 @@
 //import java.util.Scanner;
-class main {
+class duck {
    public static void main(String[] args){
    	//Scanner input = new Scanner(System.in);
    	String num = "513";
